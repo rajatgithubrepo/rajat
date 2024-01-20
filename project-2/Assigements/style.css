@@ -1,0 +1,251 @@
+body {
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 0;
+    margin: 40px 0;
+}
+
+.ravi {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar li {
+    margin: 0 13.5px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #0a115d;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #238fa9;
+}
+
+.ravi {
+    margin-left: 50px
+}
+
+.raj {
+    text-align: center;
+    padding: 20px 0 0 0px;
+    margin: 20px 0 0 0px;
+}
+
+.raj img {
+    width: 60%;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+    width: 1023px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.space-beetween {
+    display: flex;
+    justify-content: space-between;
+}
+
+.images-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container2 {
+    margin: 30px 0 0;
+}
+
+.firstimg {
+    border-right: 20px solid;
+    border-color: #4bd1a0;
+}
+
+.container2 img {
+    height: 100%;
+}
+
+.text-para {
+    text-align: center;
+    color: #0a115d;
+    background: #ededed;
+    width: 496px;
+}
+
+.text-para p {
+    text-align: left;
+    padding: 26px 25px;
+}
+
+h3 {
+    padding-top: 68px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.btn {
+    background: #0a115d;
+    color: #1a8aab;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 50px;
+    font-weight: bold;
+    margin: 77px 0px 0;
+    cursor: pointer;
+}
+
+.text-para1 {
+    color: #0a115d;
+}
+
+.text-para1 h2 {
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.logoimg {
+    width: 216px;
+    padding-left: 48px;
+}
+
+.back-img {
+    height: 724px;
+    background: #000000;
+    width: 90px;
+}
+
+.main-div {
+    position: relative;
+}
+
+.opty-back {
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    opacity: 0.7;
+    background: #ededed;
+    z-index: 99;
+}
+
+.opcity-class {
+    position: absolute;
+    z-index: 9999;
+    top: 10px;
+}
+
+.main-div .navbar {
+    padding-left: 103px;
+}
+
+.slider-img {
+    border-right: 85px solid;
+    position: relative;
+}
+
+.main-div .logoimg {
+    padding-top: 8px;
+}
+
+.images-content {
+    position: absolute;
+    right: 10%;
+    top: 35%;
+    width: 35%;
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+    font-size: 14px;
+    color: #0a115d;
+}
+
+.para {
+    height: 400px;
+    background-color: #0a115d;
+}
+
+.para-1 {
+    color: white;
+    padding: 52px 25px;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+p.para-12 {
+    font-size: 10px;
+}
+
+.fouthimg {
+    width: 60%;
+    border-right: 59px solid #f7f5e1;
+}
+
+.first-text {
+    padding: 0 45px;
+    width: 40%;
+}
+
+.first-text h2 {
+    letter-spacing: 2px;
+    color: #0a115d;
+    font-size: 29px;
+}
+
+.first-text p {
+    padding-right: 35px;
+    color: #0a115d;
+    font-size: 15px; 
+}
+
+.foot {
+    background: #ededed;
+    padding: 20px 30px;
+}
+
+p.last-taxt {
+
+    float: inline-end;
+    font-size: 10px;
+    color: #0a115d;
+}
+
+h4 {
+    color: #0a115d;
+}
+
+.foot p {
+    color: #0a115d;
+}
+.font-size-0 {
+    font-size: 0;
+}
